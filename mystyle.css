@@ -6,6 +6,7 @@
 body {
     background-size: 100%;
     -webkit-perspective: 800;
+    background: black;
 }
 
 li {
