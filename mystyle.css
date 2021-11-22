@@ -90,13 +90,13 @@ li {
 }
 
 .maxbox li:nth-child(3) {
-    background: url('./cute_chibi.jpg') no-repeat 0 0;
+    background: url('./Ymm.jfif') no-repeat 0 0;
     transform: rotateX(-90deg) translateZ(100px);
     background-size: 100% 100%;
 }
 
 .maxbox li:nth-child(4) {
-    background: url('./Ymm.jfif') no-repeat 0 0;
+    background: url('./cute_chibi.jpg') no-repeat 0 0;
     transform: rotateX(90deg) translateZ(100px);
     background-size: 100% 100%;
 }
